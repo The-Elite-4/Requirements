@@ -9,5 +9,5 @@ Secretaries will be responsible for registering patients and checking their pres
 
 ### Database Schema Diagram
 
-![DatabaseSchemaDiagram]()
+![DatabaseSchemaDiagram](db-schema-clinic.png)
 
